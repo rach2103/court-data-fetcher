@@ -214,19 +214,4 @@ court-data-fetcher/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (\`git checkout -b feature/amazing-feature\`)
-3. Commit your changes (\`git commit -m 'Add amazing feature'\`)
-4. Push to the branch (\`git push origin feature/amazing-feature\`)
-5. Open a Pull Request
-
-## ⚖️ Legal Disclaimer
-
-This tool is for educational and research purposes only. Users are responsible for complying with the terms of service of the court websites being accessed. Always respect robots.txt and rate limiting guidelines.
-
-## 📞 Support
-
-For questions or issues, please open a GitHub issue or contact [your-email@example.com].
-\`\`\`
